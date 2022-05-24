@@ -26,11 +26,20 @@ Main goals:
 - 
 Main goals: 
 1️⃣ Learn how to work with structured data types.
+
 2️⃣ Learn how to use standard streams in your program.
+
 3️⃣ Deepen your knowledge of dynamic memory allocation.
-Learn how to work with binary files.
-Directional arithmetic
-To become familiar with the BMP graphical format and its structure.
-Understand the small and large endian.
-To learn how to work with Base64 encoded data
+
+4️⃣ Learn how to work with binary files.
+
+5️⃣ Directional arithmetic.
+
+6️⃣ To become familiar with the BMP graphical format and its structure.
+
+7️⃣ Understand the small and large endian.
+
+8️⃣ To learn how to work with Base64 encoded data
 - PS.5
+
+
