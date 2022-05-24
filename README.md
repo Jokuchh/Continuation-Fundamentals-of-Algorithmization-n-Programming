@@ -6,7 +6,7 @@ The system of education was about making everything as soon as possible with the
 - **Problem Set 2** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.03.problems.to.solve.html
 Solving the task that have been set up on the web-page
 
-Main goals of **Problem Set 2** 
+Main goals of **Problem Set 2** :
 
 1️⃣ Practice algorithmization
 
@@ -14,7 +14,7 @@ Main goals of **Problem Set 2**
 - **Problem Set 3** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.02.k.html
 One of the popular game 2048. Even though this game was programmed in one weekend in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, it quickly became popular and well-loved.
 
-Main goals of **Problem Set 3** 
+Main goals of **Problem Set 3** :
 
 1️⃣ Work with structured types.
 
@@ -24,7 +24,7 @@ Main goals of **Problem Set 3**
 - **Problem Set 4** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.04.bmp.html
 BMP (BitMaP) is a simple lossless format for storing images. Flipping, changing and transforming image's size. 
 
-Main goals of **Problem Set 4** 
+Main goals of **Problem Set 4** : 
 
 1️⃣ Learn how to work with structured data types.
 
@@ -44,7 +44,7 @@ Main goals of **Problem Set 4**
 - **Problem Set 5** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.05.adventure.html 
 2D game with its own story, gameplay and objectives. Consist of multiple rooms, items interaction and a boss.
 
-Main goals of **Problem Set 5** 
+Main goals of **Problem Set 5** : 
 
 1️⃣ Learn to work with a larger project.
 
@@ -66,7 +66,8 @@ Main goals of **Problem Set 6** :
 - **Problem Set 99** - the link missed...
 It is Spotify analogy, the basic functionality is to listen, skip and choose music which is stored.
 
-Main goals of **Problem Set 99** 
+Main goals of **Problem Set 99** : 
+
 1️⃣ Learn to work with a music application.
 
 2️⃣ Learn how to make a research about new program
