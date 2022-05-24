@@ -22,5 +22,15 @@ Main goals:
 
 3️⃣ Work with input/output parameters of functions.
 
-- PS.4
+- PS.4 - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.04.bmp.html
+- 
+Main goals: 
+1️⃣ Learn how to work with structured data types.
+2️⃣ Learn how to use standard streams in your program.
+3️⃣ Deepen your knowledge of dynamic memory allocation.
+Learn how to work with binary files.
+Directional arithmetic
+To become familiar with the BMP graphical format and its structure.
+Understand the small and large endian.
+To learn how to work with Base64 encoded data
 - PS.5
