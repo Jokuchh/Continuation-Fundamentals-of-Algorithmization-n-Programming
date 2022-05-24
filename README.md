@@ -22,6 +22,7 @@ Main goals:
 
 3️⃣ Work with input/output parameters of functions.
 - **Problem Set 4** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.04.bmp.html
+BMP (BitMaP) is a simple lossless format for storing images. Flipping, changing and transforming image's size. 
 
 Main goals: 
 1️⃣ Learn how to work with structured data types.
