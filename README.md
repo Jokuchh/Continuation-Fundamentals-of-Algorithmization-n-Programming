@@ -63,4 +63,12 @@ Mastermind is a two-player game, which is better known in our country under the 
 Main goals of **Problem Set 6** :
 
 1️⃣ Learn how to work with the Arduino prototyping board
+- **Problem Set 99** - the link missed...
+It is Spotify analogy, the basic functionality is to listen, skip and choose music which is stored.
 
+Main goals of **Problem Set 99** 
+1️⃣ Learn to work with a music application.
+
+2️⃣ Learn how to make a research about new program
+
+3️⃣ Practice algorithmization
