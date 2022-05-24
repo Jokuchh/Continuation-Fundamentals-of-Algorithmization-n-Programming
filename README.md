@@ -25,6 +25,7 @@ Main goals:
 BMP (BitMaP) is a simple lossless format for storing images. Flipping, changing and transforming image's size. 
 
 Main goals: 
+
 1️⃣ Learn how to work with structured data types.
 
 2️⃣ Learn how to use standard streams in your program.
@@ -44,6 +45,7 @@ Main goals:
 2D game with its own story, gameplay and objectives. Consist of multiple rooms, items interaction and a boss.
 
 Main goals:
+
 1️⃣ Learn to work with a larger project.
 
 2️⃣ Working with void* type.
