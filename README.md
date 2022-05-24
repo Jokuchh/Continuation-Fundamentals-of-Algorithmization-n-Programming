@@ -40,6 +40,20 @@ Main goals:
 7️⃣ Understand the small and large endian.
 
 8️⃣ To learn how to work with Base64 encoded data
-- **Problem Set 5**
+- **Problem Set 5** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.05.adventure.html 
+2D game with its own story, gameplay and objectives. Consist of multiple rooms, items interaction and a boss.
+
+Main goals:
+1️⃣ Learn to work with a larger project.
+
+2️⃣ Working with void* type.
+
+3️⃣ Learn how to work with dynamic lists.
+
+4️⃣ Learn how to work with unions.
+
+5️⃣ To learn how to work with bit masks.
+
+6️⃣ To learn how to write regular expressions.
 
 
