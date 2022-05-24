@@ -7,8 +7,14 @@ The system of education was about making everything as soon as possible with the
 Solving the task that have been set up on the web-page
 - PS.3 - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.02.k.html
 One of the popular game 2048. Even though this game was programmed in one weekend in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, it quickly became popular and well-loved.
-Main goals: Work with structured types.
-            Work with two-dimensional arrays.
-            Work with input/output parameters of functions.
+
+Main goals: 
+
+1️⃣ Work with structured types.
+
+2️⃣ Work with two-dimensional arrays.
+
+3️⃣ Work with input/output parameters of functions.
+
 - PS.4
 - PS.5
