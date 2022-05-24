@@ -6,7 +6,7 @@ The system of education was about making everything as soon as possible with the
 - **Problem Set 2** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.03.problems.to.solve.html
 Solving the task that have been set up on the web-page
 
-Main goals:
+Main goals of **Problem Set 2** 
 
 1️⃣ Practice algorithmization
 
@@ -14,7 +14,7 @@ Main goals:
 - **Problem Set 3** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.02.k.html
 One of the popular game 2048. Even though this game was programmed in one weekend in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, it quickly became popular and well-loved.
 
-Main goals: 
+Main goals of **Problem Set 3** 
 
 1️⃣ Work with structured types.
 
@@ -24,7 +24,7 @@ Main goals:
 - **Problem Set 4** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.04.bmp.html
 BMP (BitMaP) is a simple lossless format for storing images. Flipping, changing and transforming image's size. 
 
-Main goals: 
+Main goals of **Problem Set 4** 
 
 1️⃣ Learn how to work with structured data types.
 
@@ -44,7 +44,7 @@ Main goals:
 - **Problem Set 5** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.05.adventure.html 
 2D game with its own story, gameplay and objectives. Consist of multiple rooms, items interaction and a boss.
 
-Main goals:
+Main goals of **Problem Set 5** 
 
 1️⃣ Learn to work with a larger project.
 
@@ -57,5 +57,10 @@ Main goals:
 5️⃣ To learn how to work with bit masks.
 
 6️⃣ To learn how to write regular expressions.
+- **Problem Set 6** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.06.arduino.html
+Mastermind is a two-player game, which is better known in our country under the name Logik. 
 
+Main goals of **Problem Set 6** :
+
+1️⃣ Learn how to work with the Arduino prototyping board
 
