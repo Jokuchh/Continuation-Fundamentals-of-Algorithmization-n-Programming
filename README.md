@@ -41,28 +41,6 @@ Main goals of **Problem Set 4** :
 7️⃣ Understand the small and large endian.
 
 8️⃣ To learn how to work with Base64 encoded data
-- **Problem Set 5** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.05.adventure.html 
-2D game with its own story, gameplay and objectives. Consist of multiple rooms, items interaction and a boss.
-
-Main goals of **Problem Set 5** : 
-
-1️⃣ Learn to work with a larger project.
-
-2️⃣ Working with void* type.
-
-3️⃣ Learn how to work with dynamic lists.
-
-4️⃣ Learn how to work with unions.
-
-5️⃣ To learn how to work with bit masks.
-
-6️⃣ To learn how to write regular expressions.
-- **Problem Set 6** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.06.arduino.html
-Mastermind is a two-player game, which is better known in our country under the name Logik. 
-
-Main goals of **Problem Set 6** :
-
-1️⃣ Learn how to work with the Arduino prototyping board
 - **Problem Set 99** - the link missed...
 It is Spotify analogy, the basic functionality is to listen, skip and choose music which is stored.
 
