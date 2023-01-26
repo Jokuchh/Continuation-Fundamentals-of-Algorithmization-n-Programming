@@ -11,16 +11,7 @@ Main goals of **Problem Set 2** :
 1️⃣ Practice algorithmization
 
 2️⃣ Work with standard input and output
-- **Problem Set 3** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.02.k.html
-One of the popular game 2048. Even though this game was programmed in one weekend in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, it quickly became popular and well-loved.
 
-Main goals of **Problem Set 3** :
-
-1️⃣ Work with structured types.
-
-2️⃣ Work with two-dimensional arrays.
-
-3️⃣ Work with input/output parameters of functions.
 - **Problem Set 4** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.04.bmp.html
 BMP (BitMaP) is a simple lossless format for storing images. Flipping, changing and transforming image's size. 
 
